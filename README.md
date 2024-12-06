@@ -58,6 +58,12 @@ Experienced Full-Stack & Blockchain Developer with a passion for building scalab
     <td align="center" style="border: 1px solid black; padding: 10px;">
       <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" height="70" width="70"/><br/>Vue.js
     </td>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=remix" alt="remix" height="70" width="70"/><br/>Remix
+    </td>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=redux" alt="redux" height="70" width="70"/><br/>Redux
+    </td>
   </tr>
 </table>
 
@@ -92,7 +98,6 @@ Experienced Full-Stack & Blockchain Developer with a passion for building scalab
 </table>
 
 
-
 ### Blockchain:
 <table>
   <tr>
@@ -102,10 +107,38 @@ Experienced Full-Stack & Blockchain Developer with a passion for building scalab
     <td align="center" style="border: 1px solid black; padding: 10px;">
       <img src="https://skillicons.dev/icons?i=solidity" alt="solidity" height="70" width="70"/><br/>Solidity
     </td>
-
   </tr>
 </table>
 
+### Server:
+<table>
+  <tr>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="70" width="70"/><br/>AWS
+    </td>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=azure" alt="azure" height="70" width="70"/><br/>Azure
+    </td>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=docker" alt="docker" height="70" width="70"/><br/>Docker
+    </td>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" height="70" width="70"/><br/>Heroku
+    </td>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=git" alt="git" height="70" width="70"/><br/>Git
+    </td>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=github" alt="github" height="70" width="70"/><br/>Github
+    </td>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" height="70" width="70"/><br/>Gitlab
+    </td>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=bitbucket" alt="bitbucket" height="70" width="70"/><br/>Bitbucket
+    </td>
+  </tr>
+</table>
 
 
 ### Databases:
