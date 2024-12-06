@@ -71,6 +71,9 @@ Experienced Full-Stack & Blockchain Developer with a passion for building scalab
       <img src="https://skillicons.dev/icons?i=express" alt="Express.js" height="70" width="70"/><br/>Express.js
     </td>
     <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=ruby" alt="ruby" height="70" width="70"/><br/>ruby
+    </td>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
       <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="70" width="70"/><br/>FastAPI
     </td>
     <td align="center" style="border: 1px solid black; padding: 10px;">
@@ -87,6 +90,23 @@ Experienced Full-Stack & Blockchain Developer with a passion for building scalab
     </td>
   </tr>
 </table>
+
+
+
+### Blockchain:
+<table>
+  <tr>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=rust" alt="Rust" height="70" width="70"/><br/>Rust
+    </td>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=solidity" alt="solidity" height="70" width="70"/><br/>Solidity
+    </td>
+
+  </tr>
+</table>
+
+
 
 ### Databases:
 <table>
