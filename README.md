@@ -102,10 +102,19 @@ Experienced Full-Stack & Blockchain Developer with a passion for building scalab
 <table>
   <tr>
     <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" height="70" width="70"/><br/>C++
+    </td>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=cs" alt="cs" height="70" width="70"/><br/>C#
+    </td>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
       <img src="https://skillicons.dev/icons?i=rust" alt="Rust" height="70" width="70"/><br/>Rust
     </td>
     <td align="center" style="border: 1px solid black; padding: 10px;">
       <img src="https://skillicons.dev/icons?i=solidity" alt="solidity" height="70" width="70"/><br/>Solidity
+    </td>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=go" alt="go" height="70" width="70"/><br/>Go
     </td>
   </tr>
 </table>
@@ -140,6 +149,23 @@ Experienced Full-Stack & Blockchain Developer with a passion for building scalab
   </tr>
 </table>
 
+### OS:
+<table>
+  <tr>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=linux" alt="linux" height="70" width="70"/><br/>Linux
+    </td>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=redhat" alt="redhat" height="70" width="70"/><br/>Redhat
+    </td>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" height="70" width="70"/><br/>Ubuntu
+    </td>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=windows" alt="windows" height="70" width="70"/><br/>Windows
+    </td>
+  </tr>
+</table>
 
 ### Databases:
 <table>
@@ -152,6 +178,9 @@ Experienced Full-Stack & Blockchain Developer with a passion for building scalab
     </td>
     <td align="center" style="border: 1px solid black; padding: 10px;">
       <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="70" width="70"/><br/>MongoDB
+    </td>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" height="70" width="70"/><br/>Firebase
     </td>
     <td align="center" style="border: 1px solid black; padding: 10px;">
       <img src="https://skillicons.dev/icons?i=redis" alt="Redis" height="70" width="70"/><br/>Redis
