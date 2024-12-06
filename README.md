@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=happymorning505&color=blue)
 
 ## 🌟 Objective:
-As a passionate and dedicated fullstack web developer, my objective is to create innovative, user-friendly, and scalable web applications. I am skilled in both frontend and backend technologies, with a strong focus on delivering high-quality code and exceptional user experiences.
+Experienced Full-Stack & Blockchain Developer with a passion for building scalable web applications and decentralized solutions. With expertise in React, Remix, Laravel, PHP, Web3, and Rust, I bring a deep understanding of both front-end and back-end development, allowing me to craft seamless, robust applications from scratch. I specialize in creating DApps, integrating smart contracts, and building responsive, high-performance web solutions for startups and enterprises alike
 
 ---
 
