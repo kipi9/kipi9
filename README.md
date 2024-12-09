@@ -1,12 +1,4 @@
 # 💻 FullStack, Blockchain Developer
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=happymorning505&color=blue)
-
-## 🌟 Objective:
-Experienced Full-Stack & Blockchain Developer with a passion for building scalable web applications and decentralized solutions. With expertise in React, Remix, Laravel, PHP, Web3, and Rust, I bring a deep understanding of both front-end and back-end development, allowing me to craft seamless, robust applications from scratch. I specialize in creating DApps, integrating smart contracts, and building responsive, high-performance web solutions for startups and enterprises alike
-
----
 
 ## 🛠️ Skills:
 
